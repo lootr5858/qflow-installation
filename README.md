@@ -6,6 +6,7 @@ one click installation of entire qflow
  a. eg. for ubuntu-based distro ```sudo bash ./ubuntu.sh```
 2. install qflow & its supporting apps with ```sudo bash ./install_qflow.sh```
 3. (optional) change install directory in your $HOME folder
+  a. (default install dir) /home/$USER/
 
 work in progress:
 - dependencies_install scripts for other distro
